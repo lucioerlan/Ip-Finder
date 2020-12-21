@@ -35,7 +35,7 @@
       </form>
       <!-- Copyright -->
       <div id="down" class="footer-copyright text-center py-3">© 2019 Copyright:
-      <a href="https://www.linkedin.com/in/erlanlucio/"> Erlan Lucio</a>
+      <a href="https://www.linkedin.com/in/erlanlucio/" target="_blank" rel="noreferrer noopener"> Erlan Lucio</a>
       </div>
       </div>
       <!-- Copyright -->
